@@ -59,5 +59,5 @@ Loss function history:
 
 Intersection over Union history:
 
-![Alt text](images/IOU_new_3.png)
+![Alt text](images/IOU_new.png)
 
